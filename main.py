@@ -5,4 +5,4 @@ def add(a, b):
 if __name__ == "__main__":
     # Example usage
     result = add(5, 3)
-    print(f"The sum of 5 and 3 is: {result}")
+    print(f"The sum of 5 and 3 = {result}")
